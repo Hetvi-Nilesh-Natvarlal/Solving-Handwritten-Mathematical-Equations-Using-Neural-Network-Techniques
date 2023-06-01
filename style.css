@@ -1,0 +1,57 @@
+QWidget {
+    background-color: #FFB7D5;
+    /*color: rgb(200, 200, 200);*/
+    font-family: Times New Roman, Times, serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+QTextEdit {
+    color: #CAC6E0  ;
+    /*background-color: #CAC6E0;*/
+   background-color: #8E3179;
+}
+
+QPushButton {
+    color: #8E3179  ;
+    background-color: #CAC6E0;
+    font-size: 20px
+}
+
+QLabel {
+    color: #8E3179 ;
+    font-size: 20px
+}
+
+QSplitter {
+    background-color: #8E3179;
+}
+
+QComboBox {
+    color: #8E3179  ;
+    background-color: #CAC6E0;
+    font-size: 20px
+}
+
+QAbstractItemView::item:hover {
+    background-color: #8E3179;
+}
+
+QTableView {
+    color: #8E3179  ;
+    background-color: #FFB7D5;
+    font-size: 20px
+}
+
+QTableView::item:hover {
+    background-color: #CAC6E0;
+}
+
+QTableView::item:selected {
+    background-color: #CAC6E0;
+}
+
+QHeaderView {
+    background-color: #8E3179;
+    font-size: 20px
+}
