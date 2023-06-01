@@ -4,23 +4,23 @@ Using Convolutional Neural Network to create a robust handwritten equation solve
 
 The system is implemented and simulated using PyQt5 (GUI).
 
-# Environment 
+## Environment
 Install and activate the environment using conda
 
-$ conda env create -f environment.yaml
+`conda env create -f environment.yaml`
 
-$ conda activate tf
+`conda activate tf`
 
-# Datasets
+## Dataset
 The symbol recognition model is trained using the Kaggle handwritten symbol dataset https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols.
 
-Add a folder called "Data" in the base directory. Inside this folder add '+', '-', 'times', '=', 'X', 'Y' and 0-9 folders. You may need to use $ expand.py to augment certain datasets.
+Add a folder called "Data" in the base directory. Inside this folder add '+', '-', 'times', '=', 'X', 'Y' and 0-9 folders. You may need to use `expand.py` to augment certain datasets.
 
-Run $ solver_data.py to create the training dataset.
+Run `solver_data.py` to create the training dataset.
 
-# Training
-Run $ solver_training.py to train the model.
+## Training
+Run `solver_training.py` to train the model.
 
-# Run PyQt5 application
+## Run PyQt5 application
 Start the application.
-In the Anaconda Prompt enter $ python main.py
+In the Anaconda Prompt enter `python main.py`
