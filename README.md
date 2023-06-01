@@ -27,3 +27,11 @@ Run `solver_training.py` to train the model.
 ## Run PyQt5 application
 Start the application.
 In the Anaconda Prompt enter `python main.py`
+
+## Results
+![RESULT1](https://github.com/Hetvi-Nilesh-Natvarlal/Solving-Handwritten-Mathematical-Equations-Using-Neural-Network-Techniques/assets/82942652/f92c88a5-9f89-4d4a-a660-c3694826851a)
+![RESULT2](https://github.com/Hetvi-Nilesh-Natvarlal/Solving-Handwritten-Mathematical-Equations-Using-Neural-Network-Techniques/assets/82942652/0f06b68b-5caa-4690-a450-ddf35ab27850)
+![RESULT3](https://github.com/Hetvi-Nilesh-Natvarlal/Solving-Handwritten-Mathematical-Equations-Using-Neural-Network-Techniques/assets/82942652/12e8f721-8586-4e9c-a2e3-d6439b3e1031)
+![RESULT4](https://github.com/Hetvi-Nilesh-Natvarlal/Solving-Handwritten-Mathematical-Equations-Using-Neural-Network-Techniques/assets/82942652/cceb17a1-bde3-42e7-8d64-b04204622522)
+![RESULT5](https://github.com/Hetvi-Nilesh-Natvarlal/Solving-Handwritten-Mathematical-Equations-Using-Neural-Network-Techniques/assets/82942652/5d4f876d-c4a5-4a4a-9e9a-0deec92f10dc)
+![RESULT6](https://github.com/Hetvi-Nilesh-Natvarlal/Solving-Handwritten-Mathematical-Equations-Using-Neural-Network-Techniques/assets/82942652/f360dab2-639b-4307-adbe-2aeccc09c92d)
